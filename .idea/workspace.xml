@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe09e6e1-c833-4913-bc22-a18aa86ae0ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lib/pages/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/pages/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/pages/splash_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/pages/splash_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/yanyi/tejia/plugins/amaplocation/amaplocation/AmaplocationPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/yanyi/tejia/plugins/amaplocation/amaplocation/AmaplocationPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/amap_location_option.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/amap_location_option.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="SJQNW18A22000640" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1gZOd1BexGRiuilq7ZVqIp0uU4E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe09e6e1-c833-4913-bc22-a18aa86ae0ab" name="Default Changelist" comment="" />
+      <created>1598318732470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598318732470</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598493986215">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="328" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.777@0.23.1280.777" timestamp="1598493986215" />
+    <state x="100" y="123" width="1080" height="577" key="DiffContextDialog" timestamp="1598521493397">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="100" y="123" width="1080" height="577" key="DiffContextDialog/0.23.1280.777@0.23.1280.777" timestamp="1598521493397" />
+    <state x="231" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1598318746914">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="231" y="205" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1598318746914" />
+  </component>
+</project>
