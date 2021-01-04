@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fe09e6e1-c833-4913-bc22-a18aa86ae0ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../lib/pages/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/pages/home_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lib/pages/splash_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/pages/splash_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/yanyi/tejia/plugins/amaplocation/amaplocation/AmaplocationPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/yanyi/tejia/plugins/amaplocation/amaplocation/AmaplocationPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/amap_location_option.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/amap_location_option.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/amaplocation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/amaplocation.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="SJQNW18A22000640" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SJQNW18A22000640]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -22,18 +34,22 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gZOd1BexGRiuilq7ZVqIp0uU4E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -50,17 +66,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="328" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598493986215">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="339" y="224" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609736200179">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="328" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.777@0.23.1280.777" timestamp="1598493986215" />
-    <state x="100" y="123" width="1080" height="577" key="DiffContextDialog" timestamp="1598521493397">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="339" y="224" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1609736200179" />
+    <state width="1228" height="266" key="GridCell.Tab.0.bottom" timestamp="1609749429886">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="100" y="123" width="1080" height="577" key="DiffContextDialog/0.23.1280.777@0.23.1280.777" timestamp="1598521493397" />
-    <state x="231" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1598318746914">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1228" height="266" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1609749429886" />
+    <state width="1228" height="266" key="GridCell.Tab.0.center" timestamp="1609749429885">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="231" y="205" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1598318746914" />
+    <state width="1228" height="266" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1609749429885" />
+    <state width="1228" height="266" key="GridCell.Tab.0.left" timestamp="1609749429884">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="266" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1609749429884" />
+    <state width="1228" height="266" key="GridCell.Tab.0.right" timestamp="1609749429886">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="266" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1609749429886" />
+    <state x="32" y="0" key="SettingsEditor" timestamp="1609745948561">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="32" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1609745948561" />
   </component>
 </project>

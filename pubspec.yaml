@@ -1,8 +1,7 @@
 name: amaplocation
-description: A new flutter plugin project.
-version: 0.0.1
-author:
-homepage:
+description: 高德地图Flutter插件包。
+version: 0.1.0
+homepage: https://github.com/timer-cp/amaplocation.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

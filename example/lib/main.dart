@@ -9,6 +9,10 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 
+import 'package:amaplocation/amaplocation.dart';
+
+import 'package:amaplocation/amap_location_option.dart';
+
 void main() {
   runApp(MyApp());
 }
@@ -19,8 +23,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String _platformVersion = 'Unknown';
-
   @override
   void initState() {
     super.initState();
@@ -29,22 +31,8 @@ class _MyAppState extends State<MyApp> {
 
   // Platform messages are asynchronous, so we initialize in an async method.
   Future<void> initPlatformState() async {
-    String platformVersion;
-    // Platform messages may fail, so we use a try/catch PlatformException.
-//    try {
-//      platformVersion = await Amaplocation.platformVersion;
-//    } on PlatformException {
-//      platformVersion = 'Failed to get platform version.';
-//    }
-
-    // If the widget was removed from the tree while the asynchronous platform
-    // message was in flight, we want to discard the reply rather than calling
-    // setState to update our non-existent appearance.
+    Amaplocation.setApiKey("5718d4c15b7752c89b1677025024fff8", "c97373597303138ada461687ad239a70");
     if (!mounted) return;
-
-    setState(() {
-      _platformVersion = platformVersion;
-    });
   }
 
   @override
@@ -52,10 +40,24 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Plugin example app'),
+          title: const Text('高德定位插件示例'),
         ),
-        body: Center(
-          child: Text('Running on: $_platformVersion\n'),
+        body: FlatButton(
+          child: Text('获取定位'),
+          color: Colors.blue,
+          onPressed: () {
+            Amaplocation amaplocation = Amaplocation();
+            // 定位参数：是否连续定位
+            AMapLocationOption option = AMapLocationOption(onceLocation: false);
+            // 监听定位回调
+            amaplocation.onLocationChanged().listen((event) {
+              debugPrint('$event');
+            });
+            // 启动定位
+            amaplocation.startLocation();
+            // 设置定位参数
+            amaplocation.setLocationOption(option);
+          },
         ),
       ),
     );

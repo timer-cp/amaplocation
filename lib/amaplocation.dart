@@ -6,8 +6,7 @@ import 'amap_location_option.dart';
 
 class Amaplocation {
   static const String _CHANNEL_METHOD_LOCATION = "amap_location_method";
-  static const String _CHANNEL_STREAM_LOCATION =
-      "amap_location_event";
+  static const String _CHANNEL_STREAM_LOCATION = "amap_location_event";
 
   static const MethodChannel _methodChannel =
       const MethodChannel(_CHANNEL_METHOD_LOCATION);
